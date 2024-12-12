@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://udit772.github.io/My-Portfolio-Website/](https://udit772.github.io/My-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://udit772.github.io/My-Portfolio-Website/)
 
 - 💬 Ask me about **react, node, express, mongodb**
 
