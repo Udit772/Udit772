@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit772&label=Profile%20views&color=0e75b6&style=flat" alt="udit772" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udit772" alt="udit772" /></a> </p>
-<img align="right" src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" width="600px" alt="gif"/>
+<img align="right" src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" width="500px" alt="gif"/>
 
 - 🌱 I’m currently learning **Spring Boot**
 
