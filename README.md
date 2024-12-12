@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **uditsinghsfc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-LspA7GPK55q0wu9Kp7kTYjnCoIX1XCp/view?usp=sharing](https://drive.google.com/file/d/1-LspA7GPK55q0wu9Kp7kTYjnCoIX1XCp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-LspA7GPK55q0wu9Kp7kTYjnCoIX1XCp/view?usp=sharing)
 
 - ⚡ Fun fact **I once tried to build a website just for fun and ended up learning a ton about web development! When I'm not coding, you can find me exploring new tech or challenging myself with problem-solving puzzles. 🚀**
 
