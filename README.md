@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](https://github.com/Udit772/Udit772/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Udit Singh</h1>
 <h3 align="center">Full-Stack Developer | Building Scalable Web Applications | Passionate About Frontend & Backend Technologies | Continuous Learner</h3>
 
